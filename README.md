@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anilakodukula
 - 👀 I’m interested in Front end Development
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on React and Angular projects
+- 🌱 I’m currently learning TypeScript, Advanced React, and Next.js
+- 💞️ I’m looking to collaborate on React and Typescript projects
 - 📫 How to reach me : through LinkedIn. username: anilakodukula
 
 <!---
